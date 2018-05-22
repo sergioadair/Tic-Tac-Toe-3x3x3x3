@@ -5,9 +5,7 @@ It's like the classic Tic tac toe game but it's multiplied by 9 and a lot funnie
 
 It requires the basic configuration for <graphics.h> to compile.
 
-- Controls:
-Arrow keys to move
-Space key to select
+- Controls: Arrow keys to move and space key to select.
 
 
-- Made for the Computer programming class in Universidad de Sonora.
+Made for the Computer programming class in Universidad de Sonora.
