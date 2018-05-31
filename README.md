@@ -9,3 +9,5 @@ It requires the basic configuration for <graphics.h> to compile.
 
 
 Made for the Computer programming class in Universidad de Sonora.
+
+El juego está escrito en español.
